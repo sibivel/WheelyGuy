@@ -722,6 +722,7 @@ polygons = [ PoolIntArray( 0, 1, 2, 3 ) ]
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 
 [node name="FinishLabel" type="Label" parent="CanvasLayer"]
+visible = false
 margin_top = 104.271
 margin_right = 73.0
 margin_bottom = 135.271
